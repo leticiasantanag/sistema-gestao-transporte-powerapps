@@ -38,7 +38,7 @@ Implementação de um fluxo de trabalho inteligente que eliminou a necessidade d
 <img width="1369" height="865" alt="fluxo_aprovacao" src="https://github.com/user-attachments/assets/f0eefe71-d38c-45ba-8ccb-8bf473898228" />
 <img width="502" height="891" alt="formulario" src="https://github.com/user-attachments/assets/e9d52caa-e582-45aa-857e-c0fdfb083c80" />
 <img width="500" height="886" alt="tela_inicial" src="https://github.com/user-attachments/assets/b2c60b62-8790-4e27-a65d-cfdf4ca26c5e" />
-
+<img width="696" height="527" alt="negativa" src="https://github.com/user-attachments/assets/2b26d8de-c0f6-44b1-9f6b-ea98c1b8293e" />
 
 
 ---
