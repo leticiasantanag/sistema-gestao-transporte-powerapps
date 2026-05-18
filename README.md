@@ -34,11 +34,13 @@ Implementação de um fluxo de trabalho inteligente que eliminou a necessidade d
 
 ## 📸 Demonstração Visual
 
-<img width="708" height="900" alt="template" src="https://github.com/user-attachments/assets/a4fe5e2d-0e54-4751-a1b0-39c38ac2bb43" />
-<img width="1369" height="865" alt="fluxo_aprovacao" src="https://github.com/user-attachments/assets/f0eefe71-d38c-45ba-8ccb-8bf473898228" />
-<img width="502" height="891" alt="formulario" src="https://github.com/user-attachments/assets/e9d52caa-e582-45aa-857e-c0fdfb083c80" />
-<img width="500" height="886" alt="tela_inicial" src="https://github.com/user-attachments/assets/b2c60b62-8790-4e27-a65d-cfdf4ca26c5e" />
-<img width="696" height="527" alt="negativa" src="https://github.com/user-attachments/assets/2b26d8de-c0f6-44b1-9f6b-ea98c1b8293e" />
+
+<img width="365" height="611" alt="inicio" src="https://github.com/user-attachments/assets/241f032d-31ed-46cc-831e-ba7934e12a4a" />
+<img width="502" height="891" alt="formulario" src="https://github.com/user-attachments/assets/5f13b8e3-f9e5-48db-b637-cc4cc3dd9c5e" />
+<img width="1369" height="865" alt="fluxo_aprovacao" src="https://github.com/user-attachments/assets/6241c233-1979-4c95-9125-52b0efa39f2f" />
+<img width="708" height="900" alt="template" src="https://github.com/user-attachments/assets/fa9549c5-43f3-45b4-80d5-b9cea3782c7d" />
+<img width="696" height="527" alt="negativa" src="https://github.com/user-attachments/assets/a8d2e34f-998f-4d24-b8b8-751ccc0321ce" />
+
 
 
 ---
